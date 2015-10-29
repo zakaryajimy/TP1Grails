@@ -11,5 +11,6 @@ class Groupe_Poi {
         nom blank: false
         pois unique: true
         pois list()
+        //test git
     }
 }
